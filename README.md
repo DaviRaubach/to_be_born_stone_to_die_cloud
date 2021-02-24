@@ -1,1 +1,2 @@
-Lilypond score of the piece "To be Born Stone, to Die Cloud" (2018), for guitar and electronics.
+"To be Born Stone, to Die Cloud" (2018), for guitar and electronics.
+Score
